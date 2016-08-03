@@ -1,0 +1,8 @@
+c:\users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\USBHIDDRIVER.dll
+C:\Users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\USBHIDDRIVER.pdb
