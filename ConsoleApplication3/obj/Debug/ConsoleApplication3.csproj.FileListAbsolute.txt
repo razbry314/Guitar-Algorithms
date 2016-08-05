@@ -6,3 +6,10 @@ C:\Users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\Consol
 C:\Users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
 C:\Users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\USBHIDDRIVER.dll
 C:\Users\rzurek\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\USBHIDDRIVER.pdb
+C:\Users\rzurek\Documents\GitHub\Guitar-Algorithms\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\rzurek\Documents\GitHub\Guitar-Algorithms\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\rzurek\Documents\GitHub\Guitar-Algorithms\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\rzurek\Documents\GitHub\Guitar-Algorithms\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\rzurek\Documents\GitHub\Guitar-Algorithms\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\rzurek\Documents\GitHub\Guitar-Algorithms\ConsoleApplication3\bin\Debug\USBHIDDRIVER.pdb
+C:\Users\rzurek\Documents\GitHub\Guitar-Algorithms\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
