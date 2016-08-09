@@ -16,16 +16,22 @@ namespace ConsoleApplication3
 
         static void Main(string[] args)
         {
-            string Fnote, UpperFnote, temp;
+            int b=0;
+            string Fnote, Snote, Tnote, UpperFnote;
+            char delim = ',';
 
-                Console.Write("Please enter the first note: ");
+                Console.Write("Please enter the tuning for the guitar (notes comma seperated): ");
                 Fnote = Console.ReadLine();
 
-                temp = Fnote.Substring(2, 1);
+                UpperFnote = Fnote.ToUpper();
 
-                UpperFnote = temp.ToUpper();
+                string[] input = UpperFnote.Split(delim);
 
-                FretBoardAlgo(UpperFnote);
+                foreach(string i in input)
+                {
+                    FretBoardAlgo(input[b]);
+                    b++;
+                }
 
                 Console.ReadKey();
             
@@ -48,6 +54,7 @@ namespace ConsoleApplication3
                     Console.Write("{0} ", Notes[0]);
                 }
             }
+            Console.Write("\n");
         }
 
     }
